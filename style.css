@@ -1,0 +1,41 @@
+body {
+    background-color: #eab676;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-shadow: 4px 4px 20px rgb(0, 0, 0);
+}
+
+.egg {
+    filter: drop-shadow(4px 4px 20px black);
+    height: 300px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.list {
+    list-style: none;
+    background-color: #eeab59;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-position: inside;
+    font-weight: lighter;
+}
+
+.scrambled,
+.fried,
+.avocado {
+    color:#f8dfc1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-decoration-line: none;
+    font-weight: 800;
+    text-shadow: 4px 4px 10px black;
+}
